@@ -6,10 +6,10 @@
 ### <div align="center">I'm Redouan (Redu), a full-time java developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on NTTDATA Spain https://es.nttdata.com/  
+- 🔭 I’m currently working on NTTDATA Spain https://es.nttdata.com/  I worked a whole year at Santander bank projects' and now im starting a new project at BBVA bank
   
 
-- 🌱 I’m currently learning and improving my skills at SpringBoot, MongoDB,  
+- 🌱 I’m currently learning and improving my skills at SpringBoot, MongoDB, PostgreSQL, Jenkins, etc  
   
 
 - ⚡ Fact about me: I love workout 🏋️‍♂️  
@@ -24,7 +24,7 @@
 
 
 ### Frontend  
-**I don't like it 😅😅😅**  
+**I don't like it 😅😅😅 but i have a solid knowledge at HTML, CSS and Javascript (React, Bootstrap, Sass)**  
 
 
 </td><td valign="top" width="33%">
