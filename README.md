@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Redouan (Redu), a full-time java developer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">I'm Reduan (Redu), a full-time java developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on NTTDATA Spain https://es.nttdata.com/  I worked a whole year at Santander bank projects' and now im starting a new project at BBVA bank
   
 
-- 🌱 I’m currently learning and improving my skills at SpringBoot, MongoDB, PostgreSQL, Jenkins, etc  
+- 🌱 Learning and improving my skills at SpringBoot, MongoDB, PostgreSQL, Jenkins, etc  
   
 
 - ⚡ Fact about me: I love workout 🏋️‍♂️  
